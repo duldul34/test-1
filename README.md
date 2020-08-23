@@ -8,3 +8,5 @@
 원하는 내용을 입력하세요.
 
 저장소에 대한 소개글을 작성합니다.
+
+![개구리](./images/wp2114061-keroppi-wallpapers.jpg)
